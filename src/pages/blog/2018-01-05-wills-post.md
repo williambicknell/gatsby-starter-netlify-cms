@@ -10,3 +10,9 @@ description: Something new
 This seems like a nice WYSIWYG editor.
 
 Link to the [BBC](www.bbc.co.uk)
+
+* One
+* Two
+* Three
+
+![Coffee](/img/jumbotron.jpg)
