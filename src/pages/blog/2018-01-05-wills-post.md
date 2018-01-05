@@ -9,7 +9,7 @@ description: Something new
 
 This seems like a nice WYSIWYG editor.
 
-Link to the [BBC](www.bbc.co.uk)
+Link to the [BBC](https://blog.scottnonnenberg.com/static-site-generation-with-gatsby-js/)
 
 * One
 * Two
